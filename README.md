@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @a-Datana
 - 👀 I’m interested in every all kinds of Technology
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Face recognition
+- 🌱 I’m currently learning to use Github/Poweshell/Python
 - 📫 How to reach me Telegram @Datana
 
 <!---
