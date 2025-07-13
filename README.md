@@ -4,9 +4,6 @@
 
 Hello! I'm Leon Drong, a dedicated and passionate software developer in Training from Mönchengladbach, Germany. With a strong background in various programming languages and tools, I continually strive to transform my perceived weaknesses into strengths. I am somewhat of an Individualist who believes that every challenge presents an opportunity to grow, and I am always eager to learn and improve.
 
-## Contact Information
-
-- **Email:** [leon.drong@gmail.com](mailto:leon.drong+github@gmail.com)
 
 ## Skills
 
@@ -22,9 +19,6 @@ Hello! I'm Leon Drong, a dedicated and passionate software developer in Training
 - **English:** Proficient
 - **Dutch:** Basic
 
-## Profile
-
-- **Date of Birth:** May 20, 1998
 
 ## Interests
 
